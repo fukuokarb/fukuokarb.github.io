@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: event | Fukuoka.rb]]></title>
+  <link href="http://fukuokarb.github.io/blog/categories/event/atom.xml" rel="self"/>
+  <link href="http://fukuokarb.github.io/"/>
+  <updated>2014-01-20T15:38:59+09:00</updated>
+  <id>http://fukuokarb.github.io/</id>
+  <author>
+    <name><![CDATA[Fukuoka.rb]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[次回の Fukuoka.rb は01/23 (木)開催です]]></title>
+    <link href="http://fukuokarb.github.io/blog/2014/01/20/next-fukuokarb-2/"/>
+    <updated>2014-01-20T15:17:44+09:00</updated>
+    <id>http://fukuokarb.github.io/blog/2014/01/20/next-fukuokarb-2</id>
+    <content type="html"><![CDATA[<p>2014/01/23 (木) 19:30 &ndash; 21:30 で、Fukuoka.rbを開催します。詳細は下記のイベントページをご参照ください。</p>
+
+<ul>
+<li><a href="http://fukuokarb.doorkeeper.jp/events/8481">http://fukuokarb.doorkeeper.jp/events/8481</a></li>
+</ul>
+
+
+<p>次回の会場は、 <strong><a href="http://www.groovenauts.jp/company/">株式会社グルーヴノーツ</a>提供</strong> となります。</p>
+
+<p>イベント詳細にもある通り、</p>
+
+<blockquote><p>集まって、Rubyに関する作業や読書をしたり、質問があれば聞いたり、LTをしたりする、そんな場所です。</p></blockquote>
+
+<p>と言うコンセプトです。PCや技術書など、何かしたい作業に必要なものを是非お持ちください。</p>
+]]></content>
+  </entry>
+  
+</feed>

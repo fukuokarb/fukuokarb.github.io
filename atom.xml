@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Fukuoka.rb]]></title>
+  <link href="http://fukuokarb.github.io/atom.xml" rel="self"/>
+  <link href="http://fukuokarb.github.io/"/>
+  <updated>2014-01-20T15:38:59+09:00</updated>
+  <id>http://fukuokarb.github.io/</id>
+  <author>
+    <name><![CDATA[Fukuoka.rb]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[次回の Fukuoka.rb は01/23 (木)開催です]]></title>
+    <link href="http://fukuokarb.github.io/blog/2014/01/20/next-fukuokarb-2/"/>
+    <updated>2014-01-20T15:17:44+09:00</updated>
+    <id>http://fukuokarb.github.io/blog/2014/01/20/next-fukuokarb-2</id>
+    <content type="html"><![CDATA[<p>2014/01/23 (木) 19:30 &ndash; 21:30 で、Fukuoka.rbを開催します。詳細は下記のイベントページをご参照ください。</p>
+
+<ul>
+<li><a href="http://fukuokarb.doorkeeper.jp/events/8481">http://fukuokarb.doorkeeper.jp/events/8481</a></li>
+</ul>
+
+
+<p>次回の会場は、 <strong><a href="http://www.groovenauts.jp/company/">株式会社グルーヴノーツ</a>提供</strong> となります。</p>
+
+<p>イベント詳細にもある通り、</p>
+
+<blockquote><p>集まって、Rubyに関する作業や読書をしたり、質問があれば聞いたり、LTをしたりする、そんな場所です。</p></blockquote>
+
+<p>と言うコンセプトです。PCや技術書など、何かしたい作業に必要なものを是非お持ちください。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Fukuoka.rb]]></title>
+    <link href="http://fukuokarb.github.io/blog/2014/01/09/about-fukuokarb/"/>
+    <updated>2014-01-09T20:34:20+09:00</updated>
+    <id>http://fukuokarb.github.io/blog/2014/01/09/about-fukuokarb</id>
+    <content type="html"><![CDATA[<p>Fukuoka.rb は、福岡市周辺のRubyistが集まるコミュニティです。</p>
+
+<h2>何をするところ？</h2>
+
+<p>一言で言えば、Rubyに関わる作業やお話ならなんでもOKです!!1</p>
+
+<p>集まって、作業や読書をしたり、質問があれば聞いたり、LTをしたりする、そんな場所です。</p>
+
+<!--more-->
+
+
+<h2>どうして？</h2>
+
+<p>「福岡で、Rubyの話のできる人が集まる場所」を目指しています。</p>
+
+<p>今まで、福岡では定期的な活動を長く続けてきたコミュニティがありませんでした。「まずは続けてみよう」ということで、2014年より復活をしています。</p>
+
+<p>東京のコミュニティ Asakusa.rb に憧れを送りつつ、 Shibuya.rb、Yokohama.rb、Sendagaya.rb などに影響を受けています（多分）</p>
+
+<h2>いつ開催される？</h2>
+
+<ul>
+<li>月に二回程度</li>
+<li>なるべく第一、第三木曜日</li>
+</ul>
+
+
+<p>「RubyKaigiの反省会をしようぜ！」のように、突発的に何かがあれば一回増えることはあるかもしれません。</p>
+
+<h2>どこで？</h2>
+
+<p>回によって違いますので、この公式ページで告知をします。 doorkeeper のコミュニティを用いる予定です。</p>
+
+<h2>ということで</h2>
+
+<p>まずはお気軽にご参加ください！</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello, Fukuoka.rb]]></title>
+    <link href="http://fukuokarb.github.io/blog/2014/01/09/hello-fukuokarb/"/>
+    <updated>2014-01-09T20:32:06+09:00</updated>
+    <id>http://fukuokarb.github.io/blog/2014/01/09/hello-fukuokarb</id>
+    <content type="html"><![CDATA[<p>Fukuoka.rb へようこそ！</p>
+
+<h2>Fukuoka.rb ?</h2>
+
+<p>Fukuoka.rb は、福岡市周辺のRubyistが集まるコミュニティです。</p>
+]]></content>
+  </entry>
+  
+</feed>
